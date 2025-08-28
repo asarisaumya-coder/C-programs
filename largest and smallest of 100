@@ -1,0 +1,25 @@
+#include<stdio.h>
+int main()
+{
+int i,num;
+int largest, smallest;
+printf("Enter 100 numbers:\n");
+scanf("%d",&num);
+
+
+
+
+
+for(int i=1;i<=100;i++)
+scanf("%d",&num)
+
+if (num >largest)
+    num=largest
+if (num<smallest)
+    num=smallest)
+
+
+}
+printf("\nLargest number = %d\n,largest);
+printf("Smallest number =%d\n,smallest);
+}
