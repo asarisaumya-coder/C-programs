@@ -1,0 +1,14 @@
+#include<stdio.h>
+int main(){
+    int n;
+    printf("Enter a number:");
+    scanf("%d",&n);
+    if(n%5==0 && n%3==0){
+        printf("it is divisible by 3 and 5",n);
+
+    }
+    else{
+        printf("it is not divisible by 3 and 5",n);
+    }
+return 0;
+}
